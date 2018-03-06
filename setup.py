@@ -24,7 +24,7 @@ setup(
         ]
     },
     include_package_data=True,
-    url='https://github.com/bnbalsamo/pypairtree',
+    url='https://github.com/uchicago-library/pypairtree',
     install_requires=[
     ],
     tests_require=[
